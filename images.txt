@@ -1,1 +1,1 @@
-gitlab:latest
+gitlab/gitlab-ce
