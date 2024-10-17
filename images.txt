@@ -1,1 +1,1 @@
-ubuntu
+immich-server:release
