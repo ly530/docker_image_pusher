@@ -1,1 +1,1 @@
-immich-server:release
+altran1502/immich-machine-learning:release
