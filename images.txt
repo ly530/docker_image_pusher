@@ -1,2 +1,2 @@
 altran1502/immich-server:release
-tensorchord/pgvecto-rs:latest
+tensorchord/pgvecto-rs
