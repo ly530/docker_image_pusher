@@ -1,1 +1,1 @@
-wcjiang/reference:latest
+louislam/uptime-kuma:1
