@@ -1,1 +1,2 @@
-altran1502/immich-machine-learning:release
+altran1502/immich-server:release
+tensorchord/pgvecto-rs:latest
