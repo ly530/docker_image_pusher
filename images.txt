@@ -1,1 +1,1 @@
-altran1502/immich-server:release
+wcjiang/reference:latest
