@@ -1,1 +1,1 @@
-centos
+vitess/lite:latest
