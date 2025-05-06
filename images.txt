@@ -1,1 +1,1 @@
-vitess/lite:latest
+devld/go-drive:latest
